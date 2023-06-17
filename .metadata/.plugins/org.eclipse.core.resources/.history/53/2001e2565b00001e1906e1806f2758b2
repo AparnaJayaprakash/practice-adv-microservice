@@ -1,0 +1,4 @@
+spring.application.server=eureka
+server.port=8071
+
+eureka.client.fetch-registry=false

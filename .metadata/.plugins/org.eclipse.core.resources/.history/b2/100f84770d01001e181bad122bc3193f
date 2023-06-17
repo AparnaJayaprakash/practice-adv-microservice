@@ -1,0 +1,5 @@
+package com.example.student.resource;
+
+public class StudentController {
+
+}

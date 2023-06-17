@@ -1,0 +1,5 @@
+package com.example.feignclient.resource;
+
+public class FeignClientController {
+
+}
